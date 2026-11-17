@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ArenaTrack.Tests/ArenaTrack.Tests.csproj" Id="f2f6fe49-6a87-4af2-a82d-fdbc97d5c94a" />
+  <Project Path="ArenaTrack/ArenaTrack.csproj" />
+</Solution>
